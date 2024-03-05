@@ -1,0 +1,44 @@
+[
+    {
+      "id": "123456",
+      "cover": "https://i.ibb.co/FK1h81f/4535703.jpg",
+      "author": "Jane Doe",
+      "title": "The Mystery of Emerald Manor",
+      "author_img": "https://tinypic.host/images/2024/03/04/boy2.jpeg",
+      "posted_date": "2024-02-15",
+      "reading_time": 25,
+      "hashtags": ["#mystery", "#adventure", "#fiction"]
+    },
+    {
+      "id": "789012",
+      "cover": "https://i.ibb.co/qmSX77F/4680774.jpg",
+      "author": "John Smith",
+      "title": "Beyond the Stars",
+      "author_img": "https://tinypic.host/images/2024/03/04/boy1.png",
+      "posted_date": "2024-02-20",
+      "reading_time": 30,
+      "hashtags": ["#sciencefiction", "#space", "#exploration"]
+    },
+    {
+      "id": "345678",
+      "cover": "https://i.ibb.co/RjGhpjp/business-web-banner-06.jpg",
+      "author": "Alice Johnson",
+      "title": "Secrets of the Deep",
+      "author_img": "https://tinypic.host/images/2024/03/04/girl1.jpeg",
+      "posted_date": "2024-02-25",
+      "reading_time": 40,
+      "hashtags": ["#fantasy", "#magic", "#ocean"]
+    },
+    {
+      "id": "901234",
+      "cover": "https://i.ibb.co/chxzL20/Business-Web-Banner-03.jpg",
+      "author": "David Brown",
+      "title": "The Last Stand",
+      "author_img": "https://tinypic.host/images/2024/03/04/girl2.jpeg",
+      "posted_date": "2024-02-28",
+      "reading_time": 20,
+      "hashtags": ["#dystopian", "#survival", "#future"]
+    }
+    
+  ]
+  
